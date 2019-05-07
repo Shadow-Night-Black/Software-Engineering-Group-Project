@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstacles>
+    <obstacle>
+        <id>Private Jet</id>
+        <posX>1800</posX>
+        <posY>135</posY>
+        <length>150</length>
+        <width>30</width>
+        <height>25</height>
+        <degree>0</degree>
+        <highestXOffset>150</highestXOffset>
+        <highestYOffset>0</highestYOffset>
+    </obstacle>
+    <obstacle>
+        <id>Airbus</id>
+        <posX>1800</posX>
+        <posY>135</posY>
+        <length>300</length>
+        <width>60</width>
+        <height>40</height>
+        <degree>0</degree>
+        <highestXOffset>300</highestXOffset>
+        <highestYOffset>0</highestYOffset>
+    </obstacle>
+</obstacles>

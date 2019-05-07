@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runways>
+    <runway>
+        <direction>9</direction>
+        <designator>L</designator>
+        <tora>3902</tora>
+        <toda>3942</toda>
+        <asda>3922</asda>
+        <lda>3595</lda>
+        <displacementThreshold>306</displacementThreshold>
+        <resa>240</resa>
+        <stripEnd>60</stripEnd>
+    </runway>
+    <runway>
+        <direction>10</direction>
+        <designator>L</designator>
+        <tora>3902</tora>
+        <toda>3902</toda>
+        <asda>3902</asda>
+        <lda>3595</lda>
+        <displacementThreshold>306</displacementThreshold>
+        <resa>240</resa>
+        <stripEnd>60</stripEnd>
+    </runway>
+    <runway>
+        <direction>11</direction>
+        <designator>L</designator>
+        <tora>3902</tora>
+        <toda>3942</toda>
+        <asda>3922</asda>
+        <lda>3595</lda>
+        <displacementThreshold>306</displacementThreshold>
+        <resa>240</resa>
+        <stripEnd>60</stripEnd>
+    </runway><runway>
+        <direction>17</direction>
+        <designator>L</designator>
+        <tora>3902</tora>
+        <toda>3942</toda>
+        <asda>3922</asda>
+        <lda>3595</lda>
+        <displacementThreshold>306</displacementThreshold>
+        <resa>240</resa>
+        <stripEnd>60</stripEnd>
+    </runway>
+</runways>
